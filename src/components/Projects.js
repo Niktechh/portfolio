@@ -24,6 +24,7 @@ export const Projects = () => {
     {
       title: "Spylt clone",
       description: "Clone of awwwards winning website",
+      imgUrl: projImg8,
       projectUrl: "https://spylt-clone-chi.vercel.app/",
     },
     {
