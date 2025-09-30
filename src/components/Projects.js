@@ -7,7 +7,8 @@ import colorSharp2 from "../assets/img/color-sharp2.png";
 import projImg4 from "../assets/img/project-img4.png";
 import projImg5 from "../assets/img/project-img5.png";
 import projImg6 from "../assets/img/project-img6.png";
-import projImg7 from "../assets/img/project-img7.png";  
+import projImg7 from "../assets/img/project-img7.png"; 
+import projImg8 from "../assets/img/project-img8.png";  
 import 'animate.css';
 import TrackVisibility from 'react-on-screen';
 
@@ -21,10 +22,9 @@ export const Projects = () => {
       projectUrl: "https://gta-iv-ashy.vercel.app/",
     },
     {
-      title: "SkipperUI Clone",
-      description: "Clone of old skipper ui website made using react js use skipper ui components",
-      imgUrl: projImg5,
-      projectUrl: "https://skiper-tetst.vercel.app/",
+      title: "Spylt clone",
+      description: "Clone of awwwards winning website",
+      projectUrl: "https://spylt-clone-chi.vercel.app/",
     },
     {
       title: "Ochi clone",
@@ -59,6 +59,12 @@ export const Projects = () => {
       description: "Solve an SIH PS 25044 of 2025 made using react js  'only frontend is my work backend done by ai to reach dashboard (enter random email and any 6 digit in otp) '",
       imgUrl: projImg4,
       projectUrl: "https://aagrisathi.vercel.app/",
+    },
+     {
+      title: "SkipperUI Clone",
+      description: "Clone of old skipper ui website made using react js use skipper ui components",
+      imgUrl: projImg5,
+      projectUrl: "https://skiper-tetst.vercel.app/",
     },
    
   ];
